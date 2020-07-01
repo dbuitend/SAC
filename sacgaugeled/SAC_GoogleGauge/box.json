@@ -4,7 +4,7 @@
 	"name": "Gauge LED",
 	"description": "A Gauge LED demo",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://dbuitend.github.io/SAC/sacgaugeled/box/icon.png",
+	"icon": "https://dbuitend.github.io/SAC/sacgaugeled/SAC_GoogleGauge/box/icon.png",
 	"vendor": "FD",
 	"eula": "EULA",
 	"license": "2.0",
@@ -12,13 +12,13 @@
 		{
 			"kind": "main",
 			"tag": "com-fd-gaugeled",
-			"url": "https://dbuitend.github.io/SAC/sacgaugeled/box/box.js",
+			"url": "https://dbuitend.github.io/SAC/sacgaugeled/SAC_GoogleGauge/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},{
 			"kind": "builder",
 			"tag": "com-fd-gaugeled-bps",
-			"url": "https://dbuitend.github.io/SAC/sacgaugeled/box/box_bps.js",
+			"url": "https://dbuitend.github.io/SAC/sacgaugeled/SAC_GoogleGauge/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}

@@ -4,7 +4,7 @@
 	"name": "Google Sheets Stock",
 	"description": "A Google Sheets Stock demo",
 	"newInstancePrefix": "Googlesheetsstock",
-	"icon": "https://dbuitend.github.io/SAC/sacgooglesheetstock/box/icon.png",
+	"icon": "https://dbuitend.github.io/SAC/sacgooglesheetstock/activity_128.png",
 	"vendor": "FD",
 	"eula": "EULA",
 	"license": "2.0",
